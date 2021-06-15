@@ -1,0 +1,16 @@
+[
+    {
+        "trip_name": "Taco Tuesday",
+        "possible_dates": "02/02/2020",
+        "location": "Galveston",
+        "activity": "Beach Day",
+        "transport": "Drive"
+    },
+    {
+        "trip_name": "Hawaii",
+        "possible_dates": "02/02/2020",
+        "location": "Hawaii",
+        "activity": "Beach Day",
+        "transport": "Fly"
+    }
+]
